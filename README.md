@@ -1,2 +1,5 @@
 # efox
-slow but sure
+fast
+student
+ekibe285@gmail.com
+
